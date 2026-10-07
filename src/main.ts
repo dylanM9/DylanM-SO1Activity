@@ -8,6 +8,10 @@ console.log("🎮 CMPM 121 - Starting...");
 // Simple counter for demonstration
 let counter: number = 0;
 
+//HELLO DYLAN
+
+// GREETINGS KRISTAN
+
 // Create basic HTML structure
 document.body.innerHTML = `
   <h1>CMPM 121 Project</h1>
